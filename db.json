@@ -1,19 +1,14 @@
 {
-    "todos" : [
-        {
-            "id": 1,
-            "title": "Clean Kitchen",
-            "assigned": "Jeff"
-        },
-        {
-            "id": 1,
-            "title": "Clean Bathroom",
-            "assigned": "Shavon"
-        },
-        {
-            "id": 1,
-            "title": "Grocery Shopping",
-            "assigned": "Both"
-        }
-    ]
+  "todos": [
+    {
+      "id": 1,
+      "title": "Clean Kitchen",
+      "assigned": "Jeff"
+    },
+    {
+      "title": "Take out the trash",
+      "assigned": "Jeff",
+      "id": 2
+    }
+  ]
 }
